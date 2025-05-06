@@ -1,0 +1,884 @@
+[
+  {
+    "term": "Acigüembre",
+    "grammaticalType": "sust. m.",
+    "definition": "Grosella espinosa que da fruto en baya de forma ovalada, rodeada de pelillos.",
+    "example": "En verano recogíamos acigüembres para hacer mermelada"
+  },
+  {
+    "term": "Almareñas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Variante local de almadreñas. Calzado de madera que se usaba cuando había nieve o barro.",
+    "example": "Con tanta nieve, era imposible salir sin las almareñas",
+    "synonyms": [
+      "almadreñas"
+    ]
+  },
+  {
+    "term": "Altarones",
+    "grammaticalType": "sust. m. pl.",
+    "definition": "Cúmulo, grandes nubes de desarrollo vertical.",
+    "example": "Si ves altarones en el horizonte, es señal de tormenta"
+  },
+  {
+    "term": "Andorga",
+    "grammaticalType": "sust. f.",
+    "definition": "Vientre, estómago.",
+    "example": "Después de la matanza, llenamos bien la andorga",
+    "crossReferences": [
+      "llenar la andorga (comer bien)"
+    ]
+  },
+  {
+    "term": "Angarilla",
+    "grammaticalType": "sust. f.",
+    "definition": "Cuenco de gran tamaño para transportar la basura de la tenada al basural entre dos personas.",
+    "example": "Necesitamos la angarilla para llevar todo este estiércol al huerto"
+  },
+  {
+    "term": "Angorras",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Calcetines de lana gorda.",
+    "example": "En invierno, sin unas buenas angorras, los pies se quedaban helados"
+  },
+  {
+    "term": "Antarrollo",
+    "grammaticalType": "sust. m.",
+    "definition": "Collera para caballos o asnos que se utiliza para engancharles al trillo.",
+    "example": "Mi abuelo guardaba un antarrollo de cuero en la cuadra para cuando llegaba el tiempo de la cosecha",
+    "synonyms": [
+      "collera de trillo"
+    ],
+    "crossReferences": [
+      "trillo"
+    ]
+  },
+  {
+    "term": "Arañuelo",
+    "grammaticalType": "sust. m.",
+    "definition": "Enfermedad de las colmenas; las polillas de la cera dejaban unos filamentos que parecían telas de araña.",
+    "example": "Este año, el arañuelo ha afectado a varias colmenas del pueblo"
+  },
+  {
+    "term": "Aslunas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Mala hierba que, una vez escardada en el campo, se daba a los cerdos.",
+    "example": "Recogimos aslunas para echarlas en el cocino del guarro"
+  },
+  {
+    "term": "Balaguero",
+    "grammaticalType": "sust. m.",
+    "definition": "Amontonamiento de forma oval de la mies una vez trillada, dispuesta para evitar que se moje, antes de beldar.",
+    "example": "El balaguero quedó bien hecho y resistió la tormenta sin que se mojara la mies",
+    "crossReferences": [
+      "beldar"
+    ]
+  },
+  {
+    "term": "Barda",
+    "grammaticalType": "sust. f.",
+    "definition": "Ramas de encina o roble amontonadas y dispuestas para su troceo.",
+    "example": "Trajo una barda del monte para tener leña para todo el invierno"
+  },
+  {
+    "term": "Barrila",
+    "grammaticalType": "sust. f.",
+    "definition": "Botijo de barro que conservaba el agua fresca.",
+    "example": "En verano, siempre llevábamos la barrila cuando íbamos a segar"
+  },
+  {
+    "term": "Barzón",
+    "grammaticalType": "sust. m.",
+    "definition": "Anillo de cuero que colgado del centro del ubio servía para enganchar el arado por medio de la clavija.",
+    "example": "Se nos rompió el barzón y tuvimos que parar la labranza",
+    "crossReferences": [
+      "ubio",
+      "clavija"
+    ]
+  },
+  {
+    "term": "Berezo",
+    "grammaticalType": "sust. m.",
+    "definition": "Variante local de brezo. Arbusto de hojas escamosas de madera dura y raíces gruesas.",
+    "example": "El berezo es muy bueno para hacer carbón vegetal"
+  },
+  {
+    "term": "Bielda",
+    "grammaticalType": "sust. f.",
+    "definition": "Horca de madera para alimentar de mies trillada a la beldadora.",
+    "example": "Necesitamos una bielda más grande para cargar la beldadora",
+    "crossReferences": [
+      "beldadora"
+    ]
+  },
+  {
+    "term": "Bizmao",
+    "grammaticalType": "adj.",
+    "definition": "Entablillado, escayolado.",
+    "example": "Después de la caída, estuvo un mes con el brazo bizmao"
+  },
+  {
+    "term": "Bochincha",
+    "grammaticalType": "sust. f.",
+    "definition": "Vejiga del cerdo que se daba a los niños y que inflada servía para jugar o hacer una zambomba.",
+    "example": "En la matanza, los chiguitos siempre pedían la bochincha para jugar",
+    "crossReferences": [
+      "chiguito"
+    ]
+  },
+  {
+    "term": "Borrilla",
+    "grammaticalType": "sust. f.",
+    "definition": "Oveja joven, primeriza.",
+    "example": "Esa borrilla ya está lista para criar"
+  },
+  {
+    "term": "Bubulilla",
+    "grammaticalType": "sust. f.",
+    "definition": "Variante local de abubilla. Ave de plumaje vistoso y cresta eréctil.",
+    "example": "La bubulilla hizo su nido en el viejo roble"
+  },
+  {
+    "term": "Caco",
+    "grammaticalType": "sust. m.",
+    "definition": "Herramienta parecida a una azada pero con dos guinchos que se utiliza para sacar patatas.",
+    "example": "Sin el caco, recoger las patatas sería el doble de trabajo"
+  },
+  {
+    "term": "Cagalitas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Excrementos de las ovejas o cabras (redondos y negros).",
+    "example": "El campo estaba lleno de cagalitas después de que pasara el rebaño"
+  },
+  {
+    "term": "Calderón",
+    "grammaticalType": "sust. m.",
+    "definition": "Flor de los prados en forma de campana y cuyos pétalos eran comestibles, su nombre científico es \"Fritilaria\".",
+    "example": "De niños comíamos los pétalos dulces del calderón"
+  },
+  {
+    "term": "Calzaderas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Correas para atar las abarcas.",
+    "example": "Sin calzaderas, las abarcas se caían continuamente",
+    "crossReferences": [
+      "abarcas"
+    ]
+  },
+  {
+    "term": "Camizo",
+    "grammaticalType": "sust. m.",
+    "definition": "Palo para arrastrar el trillo.",
+    "example": "El camizo debe ser fuerte para resistir el peso del trillo y de quien lo maneja",
+    "crossReferences": [
+      "trillo",
+      "tempano"
+    ]
+  },
+  {
+    "term": "Canida",
+    "grammaticalType": "adj.",
+    "definition": "Se dice de algo con moho, enmohecido.",
+    "example": "La hogaza estaba canida por haberse guardado en un lugar húmedo"
+  },
+  {
+    "term": "Capachos",
+    "grammaticalType": "sust. m. pl.",
+    "definition": "Sumidad floral de la bardana, provista de pequeños ganchos que hace que se enganchen al cabello y las ropas. Nota: En esta planta se inspiró el creador del \"velcro\".",
+    "example": "Los niños se divertían tirándose capachos unos a otros"
+  },
+  {
+    "term": "Carcaño",
+    "grammaticalType": "sust. m.",
+    "definition": "Zona posterior del pie, talón.",
+    "example": "Me duele el carcaño de tanto andar"
+  },
+  {
+    "term": "Carrasco",
+    "grammaticalType": "sust. m.",
+    "definition": "Formación vegetal compuesta por matas pequeñas de encina.",
+    "example": "El carrasco ocupa toda la ladera sur del monte"
+  },
+  {
+    "term": "Cascarrias",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Excrementos que se pegan en las nalgas de las vacas.",
+    "example": "Hay que limpiar las cascarrias de la vaca antes de ordeñarla"
+  },
+  {
+    "term": "Cellisca",
+    "grammaticalType": "sust. f.",
+    "definition": "Ventisca, temporal de viento y nieve.",
+    "example": "Con esta cellisca es mejor no salir al campo"
+  },
+  {
+    "term": "Cequilada",
+    "grammaticalType": "sust. f.",
+    "definition": "Saco estrecho y alargado para transportar la harina.",
+    "example": "Llevamos dos cequiladas de harina al molino"
+  },
+  {
+    "term": "Chambergo",
+    "grammaticalType": "sust. m.",
+    "definition": "Cualquier prenda de mala presencia y talla grande.",
+    "example": "Para ir al campo se ponía un chambergo viejo"
+  },
+  {
+    "term": "Chotear",
+    "grammaticalType": "v.",
+    "definition": "Acción de amamantar a un cordero débil, enfermo o que la madre no quiere.",
+    "example": "Tuve que chotear al cordero más pequeño porque la oveja lo rechazaba"
+  },
+  {
+    "term": "Coberteras",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Tapaderas, principalmente para recipientes de cocina.",
+    "example": "Pásame las coberteras para tapar las ollas"
+  },
+  {
+    "term": "Coca de San Antón",
+    "grammaticalType": "sust. f.",
+    "definition": "Cochinilla, mariquita, insecto coleóptero de color rojo con pintas oscuras.",
+    "example": "Las cocas de San Antón traen buena suerte a quien las encuentra"
+  },
+  {
+    "term": "Cocino",
+    "grammaticalType": "sust. m.",
+    "definition": "Comedero del cerdo, generalmente un tronco de árbol ahuecado como una artesa.",
+    "example": "Echamos las sobras en el cocino para los guarros",
+    "crossReferences": [
+      "artesa"
+    ]
+  },
+  {
+    "term": "Cazuelo",
+    "grammaticalType": "sust. m.",
+    "definition": "Cáscara del trigo.",
+    "example": "Después de aventar, separábamos el grano del cazuelo"
+  },
+  {
+    "term": "Collada",
+    "grammaticalType": "sust. f.",
+    "definition": "Collar de madera que se cerraba con un pasador para atar las bestias al pesebre.",
+    "example": "La collada estaba desgastada después de tantos años de uso"
+  },
+  {
+    "term": "Coloño",
+    "grammaticalType": "sust. m.",
+    "definition": "Cesto de tiras de madera entretejidas.",
+    "example": "Recogimos un coloño lleno de setas en el monte"
+  },
+  {
+    "term": "Cornacha",
+    "grammaticalType": "sust. f.",
+    "definition": "Oveja con pequeños cuernos.",
+    "example": "La cornacha negra es la mejor oveja del rebaño"
+  },
+  {
+    "term": "Corte",
+    "grammaticalType": "sust. f.",
+    "definition": "Pocilga del cerdo, zahúrda.",
+    "example": "Hay que limpiar la corte todas las semanas para que no huela mal",
+    "synonyms": [
+      "zahúrda"
+    ]
+  },
+  {
+    "term": "Costro",
+    "grammaticalType": "sust. m.",
+    "definition": "Sapo, escuerzo.",
+    "example": "Hay muchos costros cerca de la charca después de la lluvia",
+    "synonyms": [
+      "escuerzo",
+      "sapo"
+    ]
+  },
+  {
+    "term": "Coyunda",
+    "grammaticalType": "sust. f.",
+    "definition": "Cincha de cuero de vaca que se utiliza para uncir los bueyes, sujetando el ubio con los cuernos haciendo un entrecruzado.",
+    "example": "Sin una buena coyunda, los bueyes no pueden tirar bien del arado",
+    "crossReferences": [
+      "ubio"
+    ]
+  },
+  {
+    "term": "Cuajilón",
+    "grammaticalType": "sust. m.",
+    "definition": "Sangre cuajada que procede de cuando se clava el cuchillo al cerdo durante la matanza.",
+    "example": "El cuajilón se aprovechaba para hacer morcilla"
+  },
+  {
+    "term": "Cuartillo",
+    "grammaticalType": "sust. m.",
+    "definition": "Contraventana. Pequeña ventana de madera que sirve para cerrar la ventana por dentro y evitar así que entre la luz dentro de una habitación.",
+    "example": "Cierra el cuartillo para que no entre el frío"
+  },
+  {
+    "term": "Chiguito",
+    "grammaticalType": "sust. m.",
+    "definition": "Chico, chiquillo, niño pequeño.",
+    "example": "Los chiguitos jugaban en la era mientras los mayores trillaban"
+  },
+  {
+    "term": "Chivarrilla",
+    "grammaticalType": "sust. f.",
+    "definition": "Garrapata, parásito que se adhiere a la piel de animales y personas para alimentarse de su sangre.",
+    "example": "Después de andar por el monte, venía lleno de chivarrillas",
+    "synonyms": [
+      "garrapata"
+    ]
+  },
+  {
+    "term": "Chorolitas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Flores de primavera de pétalos amarillos, de brillo de cera, perteneciente al género Ranúnculo.",
+    "example": "El prado está cubierto de chorolitas en primavera"
+  },
+  {
+    "term": "Churrutera",
+    "grammaticalType": "sust. f.",
+    "definition": "Morcilla que se hacía con una tripa delgada y era la primera que se comía recién sacada de la caldera.",
+    "example": "La churrutera siempre se comía el mismo día de la matanza"
+  },
+  {
+    "term": "Dar un tunda",
+    "grammaticalType": "loc. verb.",
+    "definition": "Dar una somanta de palos, golpear repetidamente.",
+    "example": "Si llegas tarde, tu padre te va a dar una tunda",
+    "synonyms": [
+      "somanta"
+    ]
+  },
+  {
+    "term": "Desvaído",
+    "grammaticalType": "adj.",
+    "definition": "Descolorido, que ha perdido su color original.",
+    "example": "El pañuelo quedó desvaído después de tantos lavados"
+  },
+  {
+    "term": "Ellar",
+    "grammaticalType": "sust. m.",
+    "definition": "Cadena pendiente de la campana de la chimenea para colgar la caldera.",
+    "example": "Del ellar colgaba siempre una caldera con agua caliente"
+  },
+  {
+    "term": "Empernetas",
+    "grammaticalType": "adv.",
+    "definition": "Sin medias, sin calcetines, con los pies descubiertos.",
+    "example": "Andar empernetas en invierno es buscar un resfriado"
+  },
+  {
+    "term": "Encella",
+    "grammaticalType": "sust. f.",
+    "definition": "Recipiente de cerámica con perforaciones para moldear la cuajada durante la fabricación del queso.",
+    "example": "La encella debe estar limpia antes de poner la cuajada",
+    "crossReferences": [
+      "tocas"
+    ]
+  },
+  {
+    "term": "Entornarse",
+    "grammaticalType": "v. pron.",
+    "definition": "Volcarse el carro.",
+    "example": "Se nos entornó el carro en la cuesta y perdimos media carga"
+  },
+  {
+    "term": "Entremijo",
+    "grammaticalType": "sust. m.",
+    "definition": "Mesa baja con ranuras para que escurra el suero al hacer el queso.",
+    "example": "La leche cuajada se coloca en el entremijo para que suelte el suero",
+    "synonyms": [
+      "expremijo"
+    ]
+  },
+  {
+    "term": "Erradón",
+    "grammaticalType": "sust. m.",
+    "definition": "Recipiente de cerámica con dos asas y pico que se utilizaba para ordeñar.",
+    "example": "Llena el erradón con la leche recién ordeñada"
+  },
+  {
+    "term": "Escanciar",
+    "grammaticalType": "v.",
+    "definition": "Volcar el puchero en la fuente para comer.",
+    "example": "Escancia el caldo con cuidado para que no salpique"
+  },
+  {
+    "term": "Escorronchar",
+    "grammaticalType": "v.",
+    "definition": "Realizar un pequeño aliviadero a la tierra encharcada para drenar el agua.",
+    "example": "Hay que escorronchar la tierra del huerto para que no se pudran las patatas"
+  },
+  {
+    "term": "Escullar",
+    "grammaticalType": "v.",
+    "definition": "Escurrir, gotear un líquido.",
+    "example": "Deja escullar bien el queso antes de ponerlo a orear"
+  },
+  {
+    "term": "Escusamozas",
+    "grammaticalType": "sust. f.",
+    "definition": "Especie de horquilla que sale vertical sobre la pata larga de la trébede y sirve para apoyar el mango de la sartén.",
+    "example": "Apoya bien la sartén en la escusamozas para que no se vuelque",
+    "crossReferences": [
+      "trébede"
+    ]
+  },
+  {
+    "term": "Esgurriarse",
+    "grammaticalType": "v. pron.",
+    "definition": "Desparramarse, caída de piedras.",
+    "example": "La pared vieja se está esgurriando poco a poco"
+  },
+  {
+    "term": "Esmelenaos",
+    "grammaticalType": "sust. m. pl.",
+    "definition": "Dolores previos al parto.",
+    "example": "La oveja tenía esmelenaos, así que pasamos la noche en vela"
+  },
+  {
+    "term": "Espigao",
+    "grammaticalType": "adj.",
+    "definition": "Alto, de estatura elevada, se aplica especialmente a las personas delgadas.",
+    "example": "Su hijo está muy espigao, no para de crecer"
+  },
+  {
+    "term": "Esquila",
+    "grammaticalType": "sust. f.",
+    "definition": "Cencerra pequeña y de sonido agudo que llevan las ovejas.",
+    "example": "Por el sonido de la esquila sabía qué oveja se había alejado del rebaño"
+  },
+  {
+    "term": "Está engüerau",
+    "grammaticalType": "loc. adj.",
+    "definition": "Desmejorado, debilitado, con mal aspecto físico.",
+    "example": "Después de la enfermedad quedó muy engüerau"
+  },
+  {
+    "term": "Estrompada",
+    "grammaticalType": "adj.",
+    "definition": "Con deficiencia motora, torpe al andar.",
+    "example": "La vaca vieja anda estrompada por la artrosis"
+  },
+  {
+    "term": "Gallarón / Gallarita",
+    "grammaticalType": "sust. m./f.",
+    "definition": "Excrecencia redonda del roble, agalla.",
+    "example": "Recogíamos gallarones para jugar a las canicas"
+  },
+  {
+    "term": "Gallo",
+    "grammaticalType": "sust. m.",
+    "definition": "Peonía silvestre, planta con flores grandes y vistosas.",
+    "example": "Los gallos abundan en los claros del monte en primavera"
+  },
+  {
+    "term": "Garabasta",
+    "grammaticalType": "sust. f.",
+    "definition": "Arista, raspa, filamento de la espiga de los cereales.",
+    "example": "Las garabastas del trigo pueden irritar la piel"
+  },
+  {
+    "term": "Gavilán",
+    "grammaticalType": "sust. m.",
+    "definition": "Cuchilla de hierro opuesta a la aguijada para quitar la tierra de la reja del arado.",
+    "example": "El gavilán estaba desgastado y había que forjarlo de nuevo",
+    "crossReferences": [
+      "aguijada"
+    ]
+  },
+  {
+    "term": "Granzas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Restos sobrantes en la operación de la bielda, procedentes de malas hierbas, capachos, etc.",
+    "example": "Las granzas se aprovechaban para la cama del ganado"
+  },
+  {
+    "term": "Guarguero",
+    "grammaticalType": "sust. m.",
+    "definition": "Esófago, tragaderas.",
+    "example": "Se le quedó una espina atravesada en el guarguero",
+    "synonyms": [
+      "tragadera"
+    ]
+  },
+  {
+    "term": "Hilaga",
+    "grammaticalType": "sust. f.",
+    "definition": "Variante local de aulaga, planta espinosa.",
+    "example": "Las hilagas pinchaban a través de los pantalones al cruzar el monte",
+    "synonyms": [
+      "aulaga"
+    ]
+  },
+  {
+    "term": "Hiniestos",
+    "grammaticalType": "sust. m. pl.",
+    "definition": "Estructura de madera que se coloca en las cartolas del carro para aumentar la capacidad de carga.",
+    "example": "Con los hiniestos puestos, el carro puede llevar el doble de mies",
+    "crossReferences": [
+      "cartolas"
+    ]
+  },
+  {
+    "term": "Horcaja",
+    "grammaticalType": "sust. f.",
+    "definition": "Especie de horquilla, como por ejemplo la del tirachinas, pero según el Diccionario, ángulo que forman los dos muslos o piernas en su nacimiento.",
+    "example": "El tirachinas tenía una horcaja de madera de encina"
+  },
+  {
+    "term": "Lamerón",
+    "grammaticalType": "adj.",
+    "definition": "Goloso, se decía de la res que andaba lamiendo por todas partes.",
+    "example": "Esa vaca es muy lamerona, siempre está buscando sal"
+  },
+  {
+    "term": "Lata",
+    "grammaticalType": "sust. f.",
+    "definition": "Palo largo y estrecho, pértiga.",
+    "example": "Necesitamos una lata para alcanzar las nueces del nogal"
+  },
+  {
+    "term": "Latizo",
+    "grammaticalType": "adj.",
+    "definition": "Se dice de persona, animal o cosa larga y delgada.",
+    "example": "Su hijo está hecho un latizo, todo altura y ningún peso"
+  },
+  {
+    "term": "Lecherín",
+    "grammaticalType": "sust. m.",
+    "definition": "Hierba que al troncharla sale una savia blanca como leche, probablemente del género Euphorbia.",
+    "example": "Ten cuidado con el lecherín, su savia puede irritar la piel"
+  },
+  {
+    "term": "Ligaterna",
+    "grammaticalType": "sust. f.",
+    "definition": "Lagartija.",
+    "example": "En verano, las ligaternas toman el sol en los muros de piedra",
+    "synonyms": [
+      "lagartija"
+    ]
+  },
+  {
+    "term": "Lugas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Guantes de lana.",
+    "example": "En invierno, sin unas buenas lugas, las manos se quedaban heladas segando"
+  },
+  {
+    "term": "Lustroso",
+    "grammaticalType": "adj.",
+    "definition": "Gordito, con buen aspecto.",
+    "example": "El niño está lustroso, se nota que come bien"
+  },
+  {
+    "term": "Marmelitas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Apéndices largos en el cuello de las cabras.",
+    "example": "Las cabras con marmelitas largas suelen dar más leche",
+    "synonyms": [
+      "mamellas"
+    ]
+  },
+  {
+    "term": "Masera",
+    "grammaticalType": "sust. f.",
+    "definition": "Trapo para tapar la masa para hacer pan mientras fermenta.",
+    "example": "Cubre la masa con la masera y déjala levar toda la noche"
+  },
+  {
+    "term": "Melenas, las",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Cueros que se colocan encima de las cabezas de las vacas para evitar rozamientos, antes de uncir.",
+    "example": "Pon bien las melenas para que no se lastimen los animales"
+  },
+  {
+    "term": "Mocancana",
+    "grammaticalType": "sust. f.",
+    "definition": "Enfermedad de las ovejas, ictus, derrame cerebral.",
+    "example": "La oveja vieja murió de mocancana de repente",
+    "synonyms": [
+      "relocha"
+    ]
+  },
+  {
+    "term": "Morcillón",
+    "grammaticalType": "sust. m.",
+    "definition": "Morcilla hecha con el estómago del cerdo.",
+    "example": "El morcillón quedaba para la familia, no se vendía"
+  },
+  {
+    "term": "Montón",
+    "grammaticalType": "sust. m.",
+    "definition": "Amontonamiento de mies trillada.",
+    "example": "El montón de este año es mayor que el del anterior, la cosecha ha sido buena"
+  },
+  {
+    "term": "Morero",
+    "grammaticalType": "sust. m.",
+    "definition": "Pila de piedra con salmuera, por donde se pasaba el queso fresco antes de ponerlo a orear.",
+    "example": "Después de sacar el queso de la encella, se pasa por el morero y luego a orear"
+  },
+  {
+    "term": "Murcia",
+    "grammaticalType": "sust. f.",
+    "definition": "Nieve a punto de convertirse en agua, nieve semiderretida.",
+    "example": "Con esta temperatura, la nieve se ha convertido en murcia"
+  },
+  {
+    "term": "Ojinegra",
+    "grammaticalType": "adj.",
+    "definition": "Oveja con marcas negras alrededor de los ojos, característico de las ovejas churras.",
+    "example": "Las ojinegras son las mejores para la producción de leche"
+  },
+  {
+    "term": "Ojos garzos",
+    "grammaticalType": "loc. adj.",
+    "definition": "Ojos claros, de color entre verde y azul.",
+    "example": "La niña tiene los ojos garzos como su abuela"
+  },
+  {
+    "term": "Paja de granilla",
+    "grammaticalType": "loc. sust.",
+    "definition": "Paja de yeros muy fina, casi polvo.",
+    "example": "La paja de granilla es muy buena para la cama de los corderos recién nacidos"
+  },
+  {
+    "term": "Páncaro",
+    "grammaticalType": "sust. m.",
+    "definition": "Pájaro imaginario que los pozanos decían que cantaba en mayo.",
+    "example": "Si oyes al páncaro cantar, la primavera no va a tardar"
+  },
+  {
+    "term": "Pecu",
+    "grammaticalType": "sust. m.",
+    "definition": "Cuco, cuclillo. Nota: En Masa existía el cuento del pecu: era un niño de escuela que por no aprenderse más que estas dos letras -P Q- un genio le convirtió en pájaro.",
+    "example": "El pecu ya canta, la primavera ha llegado",
+    "synonyms": [
+      "cuco",
+      "cuclillo"
+    ]
+  },
+  {
+    "term": "Picarrolincho",
+    "grammaticalType": "sust. m.",
+    "definition": "Pájaro carpintero, pica maderos.",
+    "example": "El picarrolincho hace su nido en los troncos de los árboles viejos",
+    "synonyms": [
+      "pájaro carpintero"
+    ]
+  },
+  {
+    "term": "Poncha",
+    "grammaticalType": "sust. f.",
+    "definition": "Sapo partero, escuerzo.",
+    "example": "La poncha se esconde entre las piedras húmedas",
+    "synonyms": [
+      "escuerzo",
+      "sapo partero"
+    ]
+  },
+  {
+    "term": "Rabotar",
+    "grammaticalType": "v.",
+    "definition": "Cortar el rabo, retorciéndolo, de las corderas que se dejan para criar.",
+    "example": "Hay que rabotar a las corderas antes de que crezcan demasiado"
+  },
+  {
+    "term": "Relocha",
+    "grammaticalType": "sust. f.",
+    "definition": "Variante de mocancana, enfermedad neurológica de las ovejas.",
+    "example": "La oveja murió de relocha en pocos días",
+    "synonyms": [
+      "mocancana"
+    ]
+  },
+  {
+    "term": "Resquemo",
+    "grammaticalType": "sust. m.",
+    "definition": "Humareda procedente de la sartén cuando se quema el aceite.",
+    "example": "El resquemo del aceite quemado llenó toda la cocina"
+  },
+  {
+    "term": "Restrillarse",
+    "grammaticalType": "v. pron.",
+    "definition": "Revolcarse en el suelo los asnos, caballos y otros animales.",
+    "example": "Los burros se restrillan cuando están contentos o tienen picor"
+  },
+  {
+    "term": "Revolvedera",
+    "grammaticalType": "sust. f.",
+    "definition": "Apero que se engancha detrás del trillo y sirve para revolver la mies durante la trilla.",
+    "example": "La revolvedera facilita mucho el trabajo de la trilla",
+    "crossReferences": [
+      "trillo"
+    ]
+  },
+  {
+    "term": "Ritina",
+    "grammaticalType": "interj.",
+    "definition": "Voz de llamada a las ovejas.",
+    "example": "¡Ritina, ritina!\" gritaba el pastor para que volvieran las ovejas"
+  },
+  {
+    "term": "Rodea",
+    "grammaticalType": "sust. f.",
+    "definition": "Trapo de cocina basto.",
+    "example": "Pásame la rodea para limpiar la mesa"
+  },
+  {
+    "term": "Rosnar",
+    "grammaticalType": "v.",
+    "definition": "Que roza, producir un sonido áspero por fricción.",
+    "example": "La puerta rosna porque le falta aceite en los goznes"
+  },
+  {
+    "term": "Ruella",
+    "grammaticalType": "sust. f.",
+    "definition": "Gran bandeja de paja trenzada que, puesta en la cabeza, servía para llevar al horno los panes ya amasados que se iban a cocer.",
+    "example": "Llevaba la ruella con seis hogazas camino del horno"
+  },
+  {
+    "term": "Saltapliscos",
+    "grammaticalType": "sust. m.",
+    "definition": "Saltamontes, insecto ortóptero que salta entre la hierba.",
+    "example": "Los niños perseguían saltapliscos en el prado",
+    "synonyms": [
+      "saltamontes"
+    ]
+  },
+  {
+    "term": "Sentado de mediagancheta",
+    "grammaticalType": "loc. adv.",
+    "definition": "Sentarse en el borde de una silla de mala manera, sin apoyar bien el cuerpo.",
+    "example": "No te sientes de mediagancheta, que te vas a caer"
+  },
+  {
+    "term": "Seseros",
+    "grammaticalType": "sust. m. pl.",
+    "definition": "Semicírculos de hierro que sujetaban por detrás el puchero puesto a la lumbre.",
+    "example": "Sin los seseros, el puchero se volcaría en la lumbre"
+  },
+  {
+    "term": "Sobeo",
+    "grammaticalType": "sust. m.",
+    "definition": "Cincha de cuero de vaca para sujetar la viga del carro u otro apero al ubio.",
+    "example": "El sobeo debe ser de buen cuero para que no se rompa con el peso",
+    "crossReferences": [
+      "ubio"
+    ]
+  },
+  {
+    "term": "Tarascón",
+    "grammaticalType": "adj.",
+    "definition": "Basto, tosco, rudo.",
+    "example": "Es un trabajo tarascón, pero cumple su función"
+  },
+  {
+    "term": "Tarila",
+    "grammaticalType": "sust. f.",
+    "definition": "Juego de niños que consiste en un palo afilado por sus dos extremos; al golpear con una tabla en uno de los extremos, salta y, al caer, es golpeado con la tabla y enviado lejos.",
+    "example": "Los chiguitos pasaban horas jugando a la tarila en la era"
+  },
+  {
+    "term": "Tascuela",
+    "grammaticalType": "sust. f.",
+    "definition": "Montoncillo de basura que se va dejando en la tierra desde el carro, o montoncillo de nieve que, por la ventisca, entra por alguna rendija del tejado.",
+    "example": "Había tascuelas de nieve por toda la buhardilla después de la ventisca"
+  },
+  {
+    "term": "Témpano",
+    "grammaticalType": "sust. m.",
+    "definition": "Palo vertical que lleva el trillo, en el cual se engancha el camizo.",
+    "example": "El témpano debe ser fuerte para resistir la tensión del tiro",
+    "crossReferences": [
+      "trillo",
+      "camizo"
+    ]
+  },
+  {
+    "term": "Tentemozo",
+    "grammaticalType": "sust. m.",
+    "definition": "Palo cilíndrico para mantener horizontal la viga del carro cuando está desenganchado.",
+    "example": "Pon el tentemozo antes de desatar los bueyes"
+  },
+  {
+    "term": "Tetimanca",
+    "grammaticalType": "adj.",
+    "definition": "Oveja o vaca que tiene un pezón seco, que no da leche.",
+    "example": "La vaca tetimanca da menos leche, pero sigue siendo buena para criar"
+  },
+  {
+    "term": "Tizo",
+    "grammaticalType": "sust. m.",
+    "definition": "Granos negros de la espiga, causados por un hongo.",
+    "example": "Este año ha habido mucho tizo en el trigo por la humedad"
+  },
+  {
+    "term": "Tocas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Telas finas que se ponían dentro de la encella donde se daba forma al queso.",
+    "example": "Las tocas deben estar muy limpias para que el queso no se contamine",
+    "crossReferences": [
+      "encella"
+    ]
+  },
+  {
+    "term": "Trapas",
+    "grammaticalType": "sust. f. pl.",
+    "definition": "Trapos mojados que se utilizaban para limpiar el horno antes de introducir el pan.",
+    "example": "Pasa las trapas para quitar las cenizas del horno"
+  },
+  {
+    "term": "Trespíes",
+    "grammaticalType": "sust. m.",
+    "definition": "Soporte formado con tres palos en forma triangular para apoyar un tronco y facilitar el troceo.",
+    "example": "Sin el trespíes, es muy difícil cortar los troncos grandes"
+  },
+  {
+    "term": "Tronzador",
+    "grammaticalType": "sust. m.",
+    "definition": "Serrote de grandes proporciones que requiere dos personas para usarlo.",
+    "example": "Con el tronzador cortamos los troncos más gruesos entre dos hombres"
+  },
+  {
+    "term": "Tumbilla",
+    "grammaticalType": "sust. f.",
+    "definition": "Estructura de madera que se metía en la cama con una lata de ascuas o brasas de leña de roble o encina para calentarla en invierno.",
+    "example": "En las noches frías, la tumbilla era imprescindible para poder dormir"
+  },
+  {
+    "term": "Vaído",
+    "grammaticalType": "sust. m.",
+    "definition": "Mareo, vértigo.",
+    "example": "Le dio un vaído y tuvo que sentarse",
+    "synonyms": [
+      "mareo"
+    ]
+  },
+  {
+    "term": "Vasa",
+    "grammaticalType": "sust. f.",
+    "definition": "Platos y vasos, vajilla en general.",
+    "example": "La vasa de la abuela era de cerámica pintada a mano",
+    "synonyms": [
+      "vajilla"
+    ]
+  },
+  {
+    "term": "Vasar",
+    "grammaticalType": "sust. m.",
+    "definition": "Armario o anaquel para poner los platos.",
+    "example": "El vasar de la cocina estaba lleno de platos antiguos"
+  },
+  {
+    "term": "Zoqueta",
+    "grammaticalType": "sust. f.",
+    "definition": "Utensilio para protegerse los dedos de la mano en la siega con hoz.",
+    "example": "Sin la zoqueta, era fácil cortarse los dedos con la hoz",
+    "crossReferences": [
+      "hoz"
+    ]
+  }
+]

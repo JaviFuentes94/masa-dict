@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diccionario del Páramo de Masa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'serif': ['Playfair Display', 'serif'],
+                        'sans': ['Source Sans Pro', 'sans-serif'],
+                    },
+                    colors: {
+                        'tierra': {
+                            50: '#f9f5f0',
+                            100: '#e8d8c3',
+                            500: '#a67c52',
+                            600: '#8c5e3b',
+                            700: '#624121',
+                            800: '#422c18',
+                        },
+                        'musgo': {
+                            50: '#f0f5e8',
+                            100: '#dfebd1',
+                            500: '#7c995a',
+                            600: '#526636',
+                            700: '#3b4824',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .active-letter {
+            background-color: #a67c52;
+            color: white;
+        }
+        
+        .transition-height {
+            transition: max-height 0.5s ease-in-out;
+            overflow: hidden;
+        }
+
+        @media print {
+            .no-print {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-tierra-50 font-sans text-gray-800">
+    <header class="bg-tierra-700 text-white relative">
+        <div class="absolute top-0 left-0 w-full h-full bg-[url('https://images.unsplash.com/photo-1516528387618-afa90b13e000?ixlib=rb-4.0.3&auto=format&fit=crop')] opacity-20 bg-center bg-cover"></div>
+        <div class="container mx-auto px-4 py-12 relative">
+            <div class="max-w-4xl mx-auto text-center">
+                <h1 class="font-serif text-4xl md:text-5xl lg:text-6xl font-bold mb-2">Diccionario del Páramo de Masa</h1>
+                <p class="text-xl text-tierra-100 italic">Un tesoro lingüístico de la tierra burgalesa</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <!-- Introducción -->
+        <section class="max-w-4xl mx-auto mb-12 bg-white rounded-xl shadow-md p-6 md:p-8">
+            <h2 class="font-serif text-3xl text-tierra-600 mb-4">Introducción</h2>
+            <div class="prose max-w-none text-gray-700">
+                <p class="mb-4">Esta recopilación de vocablos utilizados en el páramo burgalés, concretamente en el páramo de Masa, es el resultado de conversaciones con las personas mayores de la zona. Muchas de estas palabras ya han caído en desuso, pero en tiempos pasados constituían el modo habitual de expresión y comunicación de sus habitantes.</p>
+                <p>Esta obra está dedicada a esas personas mayores que, con frecuencia, manifestaban su preocupación por la posible pérdida de este patrimonio lingüístico tras su desaparición. El presente diccionario pretende ser una contribución a la preservación de este valioso legado cultural.</p>
+            </div>
+        </section>
+
+        <!-- Buscador -->
+        <section class="max-w-4xl mx-auto mb-8 sticky top-0 z-10 bg-tierra-50 pt-4 pb-6 px-4 -mx-4 shadow-md rounded-b-lg no-print">
+            <div class="relative">
+                <input type="text" id="searchInput" placeholder="Buscar palabra o definición..." 
+                    class="w-full p-4 pl-12 border-2 border-tierra-100 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-tierra-500 focus:border-transparent text-lg bg-white">
+                <i class="fas fa-search absolute left-4 top-1/2 transform -translate-y-1/2 text-tierra-500 text-xl"></i>
+            </div>
+        </section>
+
+        <!-- Navegación por letras -->
+        <section id="alphabeticalIndexNav" class="max-w-4xl mx-auto mb-8 bg-white rounded-xl shadow-md p-6 no-print">
+            <div class="flex flex-wrap justify-between items-center mb-4">
+                <h3 class="font-serif text-xl text-tierra-600 font-semibold">Navegar por letra:</h3>
+                <button id="showAllTermsFromLetters"
+                    class="px-4 py-2 bg-tierra-500 hover:bg-tierra-600 text-white rounded-md transition-colors duration-200 flex items-center gap-2">
+                    <i class="fas fa-list"></i>
+                    Mostrar todos
+                </button>
+            </div>
+            <div id="letterButtons" class="flex flex-wrap gap-2 justify-center">
+                <!-- Los botones de letras se generan dinámicamente -->
+            </div>
+        </section>
+
+        <!-- Área de resultados -->
+        <section id="resultsContainer" class="max-w-4xl mx-auto">
+            <div id="resultsArea" class="grid grid-cols-1 gap-6">
+                <!-- Los resultados se generan dinámicamente -->
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-tierra-800 text-white py-12 mt-16">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="mb-6 md:mb-0">
+                    <h3 class="font-serif text-2xl mb-2">Diccionario del Páramo de Masa</h3>
+                    <p class="text-tierra-100">Preservando el patrimonio lingüístico de nuestra tierra</p>
+                </div>
+                <div class="text-center md:text-right">
+                    <p>&copy; <span id="year"></span> Diccionario del Páramo de Masa</p>
+                    <p class="text-tierra-100 mt-1">Hecho con <i class="fas fa-heart text-red-500"></i> para preservar nuestra historia</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+
+</html>
